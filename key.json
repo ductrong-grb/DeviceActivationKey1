@@ -23,12 +23,11 @@
   },
   "Keys": {
     "Admin": {
-      "hwid": "B8763C974CAA6DE6",
+      "hwid": "D14E731D5A31CAF2",
       "expireDate": "2026-06-03",
       "isBanned": false,
       "banReason": "Test Key",
-      "userRank": "Supreme User",
-      "freezeAccount": false
+      "userRank": "Supreme User"
     },
     "DPMods-Z50FZH": {
       "hwid": "D14E731D5A31CAF2",
